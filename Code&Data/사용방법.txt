@@ -1,0 +1,11 @@
+2-Stage Predictor
+
+1. Run Stage1
+2. Run Stage2 
+3. Copy Result Data to Result file
+-if you use logistic copy to 'lr' folder
+-if you use easy copy to 'easy' folder
+then, run matlab file
+if you get rusult of both
+copy file to sum folder and run matlab file
+It is final result!

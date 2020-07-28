@@ -1,0 +1,11 @@
+Section 1: 활용할 기상데이터 선택
+Section 2: 공장데이터, 기상데이터, 결로데이터 load
+Section 3: Cross validation을 이용한 최적 Thresholds 도출
+Section 4: Plant 별, Location 별 공장데이터 예측 모델 형성
+ Section 4-1: 15분 전, 후 기상데이터 추가
+ Section 4-2: 해당 Plant, Location의 공장데이터 형성
+ Section 4-3: Neural Network를 이용한 Weigths Matrix 도출
+ Section 4-4: Threshold 이상의 High-Correlated factor 선택
+ Section 4-5: GBM을 이용한 최종 예측 모델 형성
+ Section 4-6: 예측 모델을 이용하여 공장 데이터 예측
+Section 5: Stage 2에 활용하기 위하여 csv 파일로 저장
